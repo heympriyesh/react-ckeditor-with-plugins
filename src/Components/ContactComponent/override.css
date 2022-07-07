@@ -1,0 +1,11 @@
+.ck-content .table table th {
+  background-color: white !important;
+}
+.ck-content[dir="ltr"] .table th {
+  border: 1px solid black !important;
+}
+.ck-editor__main p {
+  font-family: calibri-light !important;
+  font-size: 12pt;
+  color: #000000 !important;
+}
