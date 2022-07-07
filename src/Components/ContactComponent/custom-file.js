@@ -9755,14 +9755,20 @@ visibility: hidden !important;
 }
 </style>
 <style>
-  .table th {
-    border: 1px solid black !important;
-  }
-  p {
-    font-family: calibri-light !important;
-    font-size: 12pt;
-    color: #000000 !important;
-  }
+.table table td,
+.table table th {
+  border: 1px solid black !important;
+  font-family: calibiri-light !important;
+}
+.table th {
+  border: 1px solid black !important;
+  font-family: calibiri-light !important;
+}
+p {
+  font-family: calibri-light !important;
+  font-size: 12pt;
+  color: #000000 !important;
+}
 </style>
 </head>
 
